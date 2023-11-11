@@ -8,7 +8,7 @@
     "dev": "next dev",
     "build": "next build"
   },
-  "author": "jeevankc17 <62981718+jeevankc17@users.noreply.github.com>",
+  "author": "AlshanRegmi_BipulTiwari",
   "license": "ISC",
   "engines": {
     "node": "16.x"
@@ -34,5 +34,5 @@
   "devDependencies": {
     "electron": "^18.0.3"
   },
-  "repository": "https://github.com/jeevankc17/health-record-sharing-platform-blockchain.git"
+  "repository": "https://github.com/AlshanRegmi/Health-Record-Sharing-Web-Application.git"
 }
